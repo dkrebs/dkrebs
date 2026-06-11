@@ -1,7 +1,9 @@
 # About Dominik Krebs
 
-Hi, I'm Dominik from Nuremberg, Germany! 
+Hi, I’m Dominik from Nuremberg, Germany.
 
-As Technical Lead at [NETZKOLLEKTIV](https://netzkollektiv.com), I help companies find their way through the jungle of Magento, Shopware, wooCommerce and the technologies PHP, NodeJS, JavaScript, React, Vue and Co. We develop extensions, plugins and themes for these and other e-commerce systems, help merchants stay up to date with new technologies and solve performance problems.
+As Managing Director & Technical Lead at NETZKOLLEKTIV, I help companies navigate the complexities of Magento, Shopware, WooCommerce and modern web technologies like PHP, Node.js, JavaScript, React and Vue.
 
-Apart of my work I do Judo and Mountainbiking, woodworking or work in the garden. I am also interested in IOT, automation and small electronics projects.
+We build extensions, plugins and themes for e-commerce platforms, support merchants in keeping their systems up to date, and solve performance and architecture challenges.
+
+Outside of work, I do Judo and mountain biking, and spend time woodworking or working in the garden. I’m also interested in IoT, automation and small electronics projects.
