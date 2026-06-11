@@ -1,6 +1,6 @@
 # About Dominik Krebs
 
-Hi, I’m Dominik from Nuremberg, Germany.
+Hi, I’m Dominik from Erlangen / Nuremberg, Germany.
 
 As Managing Director & Technical Lead at NETZKOLLEKTIV, I help companies navigate the complexities of Magento, Shopware, WooCommerce and modern web technologies like PHP, Node.js, JavaScript, React and Vue.
 
